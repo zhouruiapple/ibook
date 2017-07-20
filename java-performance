@@ -17,3 +17,5 @@
 # Applications - http://www.oracle.com/technetwork/articles/javase/monitoring-141801.html
 
 # BTrace - https://kenai.com/projects/btrace
+
+# jstat - http://docs.oracle.com/javase/1.5.0/docs/tooldocs/share/jstat.html
